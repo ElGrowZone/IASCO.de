@@ -390,7 +390,8 @@ $SWITZERLAND = array(
 $GERMANY = array(
 	"FGB" => array("code" => "FGB", "URL" => "http://www.apple.com/de/retail/grossebockenheimerstrasse", location => "Frankfurt", store => "Große Bockenheimer Straße"),
 	"HAL" => array("code" => "HAL", "URL" => "http://www.apple.com/de/retail/alstertal", location => "Hamburg", store => "Alstertal"),
-	"MUR" => array("code" => "MUR", "URL" => "http://www.apple.com/de/retail/rosenstrasse", location => "München", store => "Rosenstraße")
+	"MUR" => array("code" => "MUR", "URL" => "http://www.apple.com/de/retail/rosenstrasse", location => "München", store => "Rosenstraße"),
+	"OCO" => array("code" => "OCO", "URL" => "http://www.apple.com/de/retail/centro", location => "Oberhausen", store => "CentrO")
 );
 $FRANCE = array(
 	"PCL" => array("code" => "PCL", "URL" => "http://www.apple.com/fr/retail/carrouseldulouvre", location => "Paris", store => "Carrousel du Louvre"),
